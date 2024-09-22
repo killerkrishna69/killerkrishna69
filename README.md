@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm KRISHNA GOEL</h1>
 <h3 align="center">Developer | Creator | Explorer of Ideas"</h3>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/krishna-goel2002" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY1NmJkaGl2NmZlbmtteXloOGt6MzFuNHR4cHY3dWJzOTJ6eXZveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"" alt="www.linkedin.com/in/krishna-goel2002" height="300" width="400" /></a>
+</p>
 
-<img align="right" alt="coding" widht="400" scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY1NmJkaGl2NmZlbmtteXloOGt6MzFuNHR4cHY3dWJzOTJ6eXZveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerkrishna69&label=Profile%20views&color=0e75b6&style=flat" alt="killerkrishna69" /> </p>
 
